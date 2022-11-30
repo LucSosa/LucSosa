@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m @LucSosa
 - 👀 I’m interested in become a better developer
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Lifemed
 - 📫 How to reach me @segueososa in Instagram
   
