@@ -11,7 +11,7 @@
 - 👋 Hi, I’m @LucSosa
 - 👀 I’m interested in become a better developer
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Lifemed
+- 💞️ I’m looking to collaborate on Brainny Smart Solutions
 - 📫 How to reach me @segueososa in Instagram
   
   
